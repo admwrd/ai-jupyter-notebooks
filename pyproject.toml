@@ -1,0 +1,11 @@
+[project]
+name = "AI/ML Notebooks"
+version = "0.1.0"
+description = "Build to understand."
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.5.0",
+    "matplotlib>=3.10.7",
+    "ollama>=0.6.1",
+    "pandas>=2.3.3",
+]
